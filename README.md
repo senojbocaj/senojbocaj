@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacob!</h1>
 
-<h3 align="left">About Me:</h3>
+<h3 align="left">🧑🏼 About Me:</h3>
 👩🏻‍💻Software Engineering Student based in the DFW area.<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=senojbocaj&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
