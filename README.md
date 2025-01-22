@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senojbocaj&label=Profile%20views&color=0e75b6&style=flat" alt="senojbocaj" /> </p>
 <h3 align="left">👩🏻‍🎓 Previously studied at TAMU, and currently studying at UT Dallas majoring in SWE.</h3>
 <h3 align="left">💭 Currently focused on gaining experience and broadening my skillset.</h3>
-- 📫 How to reach me **7jacobjones7@gmail.com**
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💭 Currently focused on gaining experience and broadening my skillset.</h3>
+<h3 align="left">📫 How to reach me: 7jacobjones7@gmail.com </h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/jacobjones777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jacobjones777" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/senojbocaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="senojbocaj" height="30" width="40" /></a>
