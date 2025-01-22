@@ -1,8 +1,4 @@
-**## Hi, I'm Jacob!
-
-👩🏻‍💻 Software Engineer Student based in the DFW area.
-👩🏻‍🎓 Previously studied at TAMU, and currently studying at UT Dallas majoring in SWE.
-💭 Currently focused on gaining experience and broadening my skillset.**<h1 align="center">Hi 👋, I'm Jacob!</h1>
+<h1 align="center">Hi 👋, I'm Jacob!</h1>
 <h3 align="center">👩🏻‍💻Software Engineering Student based in the DFW area.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senojbocaj&label=Profile%20views&color=0e75b6&style=flat" alt="senojbocaj" /> </p>
