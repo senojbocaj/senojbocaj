@@ -3,8 +3,6 @@
 <h3 align="left">🧑🏼 About Me:</h3>
 👩🏻‍💻Software Engineering Student based in the DFW area.<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=senojbocaj&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
 <h3 align="left">💻 Tech Stack:</h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
