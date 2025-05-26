@@ -4,7 +4,7 @@
 
 <h3 align="left">💻 Tech Stack:</h3>
 
-**Languages**: Python, C/C++, C#, Java, Microsoft Excel, Assembly, Unix, ASP.NET, SQL
+**Languages**: Python, C/C++, C#, Java, Microsoft Excel, Assembly, Unix, ASP.NET, SQL \n
 **Frameworks**: React, ASP.NET
 **Developer Tools**: OpenAI, Spyder, PyCharm, Jupyter Notebook, Google CoLab, Agile, Git, postgreSQL, MARS
 **Libraries**: Pandas, NumPy, Matplotlib
